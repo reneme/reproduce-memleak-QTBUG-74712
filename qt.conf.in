@@ -1,0 +1,2 @@
+[Paths]
+Prefix = @CONAN_QT_PREFIX_PATH@
